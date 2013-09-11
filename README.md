@@ -1,4 +1,4 @@
-euler
-=====
+Project Euler
+=============
 
-Project Euler excercises
+My Project Euler solutions.
